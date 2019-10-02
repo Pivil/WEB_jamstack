@@ -22,7 +22,7 @@ The easy way to add some items to the shop is by using a MySQL database.
 
 You have to edit the file gatsby-config.js and fill the fields with your database information. 
 The queries information is related to your database query. See the example below.
-<img src="Screenshot 2019-10-02 at 22.00.04.png"/>
+<img src="Screenshot 2019-10-02 at 22.00.04.png" height="80%" width="80%"/>
 
 ### Choose your theme
     WIP
