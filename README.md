@@ -9,20 +9,15 @@ First mini-project of Web Pool, Epitech (MSc) Lyon, 2019
 ## Table of content
 
 - [Set up the shop]
-    - [Add items to Articles]
+    - [Add items to the shop](#add-items-to-the-shop)
     - [Choose your theme]
 - [Paypal]    
 - [Run the site](#page-setup)
   
 
-## Installation
+## Set up the shop
 
-This document is for the latest Aimeos TYPO3 **18.10 release and later**.
-
-- Stable release: 19.7 (TYPO3 7/8/9 LTS)
-- LTS release: 18.10 (TYPO3 7/8/9 LTS)
-
-### TYPO3 extension repository
+### Add items to the shop
 
 If you want to install Aimeos into your existing TYPO3 installation, the [Aimeos extension from the TER](https://typo3.org/extensions/repository/view/aimeos) is recommended. You can download and install it directly from the Extension Manager of your TYPO3 instance.
 
