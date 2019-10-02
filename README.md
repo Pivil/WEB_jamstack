@@ -20,6 +20,9 @@ First mini-project of Web Pool, Epitech (MSc) Lyon, 2019
 ### Add items to the shop
 The easy way to add some items to the shop is by using a MySQL database.
 
+You have to edit the file gatsby-config.js and fill the fields with your database information. 
+The queries information is related to your database query. See the example below.
+<img src="Screenshot 2019-10-02 at 22.00.04.png"/>
 
 ### Choose your theme
     WIP
