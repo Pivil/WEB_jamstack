@@ -30,7 +30,7 @@ The file ui.json define your own informations and the display you choose. Fill t
 Next, you have to choose one skin for the homepage, and another one for the shop list.
 For homepage, values are "big" or "small"
 For shop, values are "list" or "block"
-<img src="Screenshot 2019-10-07 at 11.10.09.png" height="80%" width="80%"/>
+<img src="Customization.png" height="80%" width="80%"/>
 
 
 ### Choose your theme
