@@ -29,7 +29,7 @@ The queries information is related to your database query. See the example below
 The file ui.json define your own informations and the display you choose. Fill the "corp" fields with your name, logo, description...
 Next, you have to choose one skin for the homepage, and another one for the shop list.
 For homepage, values are "big" or "small"
-For sop, values are "list" or "block"
+For shop, values are "list" or "block"
 
 
 ### Choose your theme
